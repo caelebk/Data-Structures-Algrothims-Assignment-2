@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "__locale": "cpp",
+        "iostream": "cpp",
+        "utility": "cpp",
+        "memory": "cpp",
+        "iosfwd": "cpp"
+    }
+}
